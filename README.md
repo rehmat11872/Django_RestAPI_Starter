@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/rehmat11872/Django_RestAPI_Starter/refs/heads/main/static/logo.png" data-canonical-src="/logo.png" width="130" height="130" />
+    <img src="https://github.com/rehmat11872/Django_RestAPI_Starter/blob/main/static/logo.png" data-canonical-src="/logo.png" width="130" height="130" />
 
 # Django starter template
 
